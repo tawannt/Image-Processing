@@ -1,8 +1,8 @@
-# 📦 Requirements for Image Processing Project
+# Image Processing Project
 
 This project involves basic image processing techniques using NumPy arrays. The following Python libraries are required:
 
-## 🧰 Required Libraries
+## Required Libraries
 
 | Library       | Description                                      |
 |---------------|--------------------------------------------------|
@@ -10,7 +10,7 @@ This project involves basic image processing techniques using NumPy arrays. The 
 | `numpy`       | For manipulating image data as arrays            |
 | `matplotlib`  | For displaying images using `pyplot`             |
 
-## 📝 Installation
+## Installation
 
 You can install all dependencies using the following command:
 
@@ -43,3 +43,48 @@ The source code consists of separate functions for each image processing task an
 
 **Table: Preliminary structure of the functions**
 
+## Experiment
+
+### Square Image
+
+
+
+### Rectangle Image
+<table>
+  <tr>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_blur.png" alt="Blurred Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_bright.png" alt="Brightened Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_contrast.png" alt="Contrasted Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_crop_center.png" alt="Center-Cropped Oppenheimer Rectangle" width="200"></td>
+  </tr>
+  <tr>
+    <td><i>Note: Blurred Oppenheimer Rectangle</i></td>
+    <td><i>Note: Brightened Oppenheimer Rectangle</i></td>
+    <td><i>Note: Contrasted Oppenheimer Rectangle</i></td>
+    <td><i>Note: Center-Cropped Oppenheimer Rectangle</i></td>
+  </tr>
+  <tr>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_crop_circle.png" alt="Circular-Cropped Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_crop_ellipse.png" alt="Elliptical-Cropped Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_flip_horizontal.png" alt="Horizontally Flipped Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_flip_vertical.png" alt="Vertically Flipped Oppenheimer Rectangle" width="200"></td>
+  </tr>
+  <tr>
+    <td><i>Note: Circular-Cropped Oppenheimer Rectangle</i></td>
+    <td><i>Note: Elliptical-Cropped Oppenheimer Rectangle</i></td>
+    <td><i>Note: Horizontally Flipped Oppenheimer Rectangle</i></td>
+    <td><i>Note: Vertically Flipped Oppenheimer Rectangle</i></td>
+  </tr>
+  <tr>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_grayscale.png" alt="Grayscale Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_sepia.png" alt="Sepia-Toned Oppenheimer Rectangle" width="200"></td>
+    <td><img src="img/processed/rectangle_img/oppenheimer_rec_sharpen.png" alt="Sharpened Oppenheimer Rectangle" width="200"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Note: Grayscale Oppenheimer Rectangle</i></td>
+    <td><i>Note: Sepia-Toned Oppenheimer Rectangle</i></td>
+    <td><i>Note: Sharpened Oppenheimer Rectangle</i></td>
+    <td></td>
+  </tr>
+</table>
