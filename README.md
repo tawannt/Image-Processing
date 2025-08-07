@@ -43,7 +43,7 @@ The source code consists of separate functions for each image processing task an
 
 **Table: Preliminary structure of the functions**
 
-## Experiment
+## Experiments
 
 ### Square Image
 <table>
