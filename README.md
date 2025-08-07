@@ -46,6 +46,44 @@ The source code consists of separate functions for each image processing task an
 ## Experiment
 
 ### Square Image
+<table>
+  <tr>
+    <td><img src="img/processed/square_img/oppenheimer_blur.png" alt="Blurred Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_bright.png" alt="Brightened Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_contrast.png" alt="Contrasted Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_crop_center.png" alt="Center-Cropped Oppenheimer Square" width="200"></td>
+  </tr>
+  <tr>
+    <td><i>Note: Blurred Oppenheimer Square</i></td>
+    <td><i>Note: Brightened Oppenheimer Square</i></td>
+    <td><i>Note: Contrasted Oppenheimer Square</i></td>
+    <td><i>Note: Center-Cropped Oppenheimer Square</i></td>
+  </tr>
+  <tr>
+    <td><img src="img/processed/square_img/oppenheimer_crop_circle.png" alt="Circular-Cropped Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_crop_ellipse.png" alt="Elliptical-Cropped Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_flip_horizontal.png" alt="Horizontally Flipped Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_flip_vertical.png" alt="Vertically Flipped Oppenheimer Square" width="200"></td>
+  </tr>
+  <tr>
+    <td><i>Note: Circular-Cropped Oppenheimer Square</i></td>
+    <td><i>Note: Elliptical-Cropped Oppenheimer Square</i></td>
+    <td><i>Note: Horizontally Flipped Oppenheimer Square</i></td>
+    <td><i>Note: Vertically Flipped Oppenheimer Square</i></td>
+  </tr>
+  <tr>
+    <td><img src="img/processed/square_img/oppenheimer_grayscale.png" alt="Grayscale Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_sepia.png" alt="Sepia-Toned Oppenheimer Square" width="200"></td>
+    <td><img src="img/processed/square_img/oppenheimer_sharpen.png" alt="Sharpened Oppenheimer Square" width="200"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><i>Note: Grayscale Oppenheimer Square</i></td>
+    <td><i>Note: Sepia-Toned Oppenheimer Square</i></td>
+    <td><i>Note: Sharpened Oppenheimer Square</i></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
