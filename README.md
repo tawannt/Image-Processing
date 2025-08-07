@@ -17,6 +17,10 @@ You can install all dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Report (must-read)
+This report presents my insights into the project and outlines the implementation approach. It includes a demonstration of relevant formulas—particularly the Lissajous Ellipse formula—along with experimental images to enhance comprehension. Additionally, it contains my evaluation of the image processing experiments.
+
 ## Implementation Details
 
 ### Structure
