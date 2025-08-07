@@ -16,6 +16,7 @@ You can install all dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
+```
 
 
 ## Chi tiết thực hiện
